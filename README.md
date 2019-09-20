@@ -1,7 +1,7 @@
 # Learning Semantically Meaningful Representations Through Embodiment
 <a href="ICLR Paper - Data Analysis.html" target="_blank"> Here </a> you can find the Jupyter Notebook used to generate the figures and animations on this page and in the submission.
 
-View HTML with interactive content <a href="https://embodiedlearning.github.io/ICLR-Submission/" target="_blank"> here </a>.
+View HTML with interactive content <a href="https://embodiedlearning.github.io/ICLR-Submission-2020/" target="_blank"> here </a>.
 
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ppRLisL9WbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
