@@ -1,0 +1,10 @@
+0 - Other, ?
+1 - Nothing
+2 - Entry Door
+3 - Normal Door
+4 - Key Door
+5 - Puzzle Door
+6 - Level Door
+7 - Key
+8 - Orb
+9 - Puzzle
